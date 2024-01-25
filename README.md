@@ -18,4 +18,6 @@ I'm a 17-year-old developer based in The Netherlands, and I'm passionate about p
 
 ## 📫 Contact
 
-WIP 
+- +31 06 23018103
+- elmzourim@outlook.com
+- Coming Soon
