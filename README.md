@@ -4,11 +4,11 @@ I'm a 17-year-old developer based in The Netherlands, and I'm passionate about p
 
 ## 📦 Experiences
 
-**Frontend Development:** `HTML` `CSS` `JavaScript (WIP)`
+**Frontend Development:** `HTML` `CSS` `JavaScript (WIP)`  `Swift (WIP)`
  
 **Version Control:** `Git` `GitLab` 
 
-**Backend Development:** `Java (WIP)` `Python (WIP)` 
+**Backend Development:** `Java (WIP)` `Python (WIP)` `Swift (WIP)`
  
 ## ✨ Fun Facts 
 
