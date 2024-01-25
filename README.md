@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey, I'm Moncef 👋🏽 
 
-<!--
-**Moncef1106/Moncef1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 17-year-old developer based in The Netherlands, and I'm passionate about programming. 
 
-Here are some ideas to get you started:
+## 📦 Experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend Development:** `HTML` `CSS` `JavaScript (WIP)`
+ 
+**Version Control:** `Git` `GitLab` 
+
+**Backend Development:** `Java (WIP)` `Python (WIP)` 
+ 
+## ✨ Fun Facts 
+
+- I have a cute cat called Aaron.
+- My favorite artist is Travis Scott (Incase you couldn't notice).
+- I started coding when I was 10.
+
+## 📫 Contact
+
+WIP 
