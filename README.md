@@ -6,7 +6,7 @@ I'm a 17-year-old developer based in The Netherlands, with a burning passion abo
 
 **Frontend Development:** `HTML` `CSS` `JavaScript (WIP)`  `Swift (WIP)`
 
-**Frameworks:** `React Native` `MariaDB` `JavaScript (WIP)`  `Swift (WIP)`
+**Frameworks:** `React Native` `MariaDB` 
 
 **Version Control:** `Git` `GitLab` `Gitkraken` 
 
