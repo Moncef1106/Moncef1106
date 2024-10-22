@@ -4,18 +4,17 @@ I'm a 17-year-old developer based in The Netherlands, with a burning passion abo
 
 ## 📦 Experiences
 
-**Frontend Development:** `HTML` `CSS` `JavaScript (WIP)`  `Swift (WIP)`
+**Frontend Development:** `HTML` `CSS` `JavaScript`  `Swift`
 
 **Frameworks:** `React Native` `MariaDB` 
 
-**Version Control:** `Git` `GitLab` `Gitkraken` 
+**Version Control:** `Git` `GitLab` `Gitkraken` `Github Desktop` 
 
 **Backend Development:** `Java ` `JavaScript`  `Python` `MySQL` `PHP`
  
 ## ✨ Fun Facts 
 
 - I have a cute cat called Aaron.
-- My favorite artist is Travis Scott (incase you couldn't notice).
 - I started coding when I was 10.
 
 ## 📫 Contact
